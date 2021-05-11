@@ -1,0 +1,15 @@
+.container{
+    margin:10px;
+    width: 600px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.slider{
+    white-space:nowrap;
+}
+
+img{
+    width: 600px;
+    height:400px;
+}
